@@ -52,3 +52,7 @@ We will be comparing our works with two tools.
 ## Submitted To
 
 Dr. Muhammad Ali Nayeem
+
+## References
+
+- [Bioinformatics Course](https://abhinavmanc.medium.com/python-code-for-the-beginner-bioinformatics-course-part-1-501e0f8df3f0)
