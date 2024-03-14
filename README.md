@@ -31,6 +31,11 @@ We will be comparing our works with two tools.
     - [Streme result](https://meme-suite.org/meme/info/status?service=STREME&id=appSTREME_5.5.517103592150211679910079)
     - [MEME ChIP result](https://meme-suite.org/meme/info/status?service=MEMECHIP&id=appMEMECHIP_5.5.51710359768688445339695) 
 
+## Our modifications
+
+- [Randomize motif search](/Codes/random.py)
+- [Gibbs sampler](/Codes/gibbs.py)
+
 ## Report
 
  - [Source code](https://www.overleaf.com/read/pgckdbwccrss#a7a78c)
