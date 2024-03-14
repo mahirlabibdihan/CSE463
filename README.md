@@ -38,20 +38,16 @@ We will be comparing our works with two tools.
 
 ## Report
 
- - [Source code](https://www.overleaf.com/read/pgckdbwccrss#a7a78c)
- - [PDF]()
+ - [Source code](/Report/source/)
+ - [PDF](/Report/report.pdf)
 
 ## Submitted By
 
-- 1905064: Sayem Shahad Soummo
-- 1905067: MD Roqunuzzaman Sojib
 - 1905072: Mahir Labib Dihan
-- 1905073: Souvik Ghosh
-- 1905090: Md Tanvir Hassan 
 
 ## Submitted To
 
-Dr. Muhammad Ali Nayeem
+- Dr. Muhammad Ali Nayeem
 
 ## References
 
