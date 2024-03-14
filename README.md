@@ -33,8 +33,8 @@ We will be comparing our works with two tools.
 
 ## Our modifications
 
-- [Randomize motif search](/Codes/randomized_motif_search.py)
-- [Gibbs sampler](/Codes/gibbs_sampler.py)
+- [Randomize motif search](/Code/randomized_motif_search.py)
+- [Gibbs sampler](/Code/gibbs_sampler.py)
 
 ## Report
 
