@@ -14,9 +14,9 @@ We will be comparing our works with two tools.
 
 ## Data
 
-[hm03](/Data/hm03.fasta)
-[yst04r](/Data/yst04r.fasta)
-[yst08r](/Data/yst08r.fasta)
+- [hm03](/Data/hm03.fasta)
+- [yst04r](/Data/yst04r.fasta)
+- [yst08r](/Data/yst08r.fasta)
 
 ## Report
 
